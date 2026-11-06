@@ -1,0 +1,13 @@
+# données (trop volumineuses pour GitHub, voir README pour les télécharger)
+data/
+
+# environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# aperçus exportés du notebook
+*.html
